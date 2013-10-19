@@ -1,7 +1,7 @@
 {
-  "name": "bitliner.nodejs.wget_module",
-  "version": "0.0.0",
-  "description": "ERROR: No README.md file found!",
+  "name": "wget",
+  "version": "0.0.1",
+  "description": "wget launcher to download web pages and make them ready to see offline too",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

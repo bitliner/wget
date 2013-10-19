@@ -1,4 +1,4 @@
 wget
 ====
 
-Nodejs module that launches wget to download web pages and make them ready to see offline
+Nodejs module that spawns wget to download web pages and make them ready to see offline
