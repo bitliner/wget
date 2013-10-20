@@ -1,6 +1,6 @@
 {
   "name": "wget_",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "wget launcher to download web pages and make them ready to see offline too",
   "main": "index.js",
   "scripts": {
